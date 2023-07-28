@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://github.com/unmeshsagar">
-    <img src="https://readme-typing-svg.demolab.com?font=Rubik+Pixels&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=UNMESH+SAGAR"  alt="Unmesh Sagar" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=UNMESH+SAGAR"  alt="Unmesh Sagar" /></a>
 </p>
 
 <p align="center">
   <!-- Typing SVG -->
-  <a href="https://github.com/unmeshsagar"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Software+Developer;Currently+Working+on+Something+Cool;Learning+New+Things" alt="Typing SVG" /></a>
+  <a href="https://github.com/unmeshsagar"><img src="https://readme-typing-svg.demolab.com?font=VT323&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Software+Developer;Currently+Working+on+Something+Cool;Learning+New+Things" alt="Typing SVG" /></a>
 </p>
 
 <!-- Social icons section -->

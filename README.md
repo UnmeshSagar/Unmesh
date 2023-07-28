@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://github.com/unmeshsagar">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Unmesh+Sagar"  alt="Unmesh Sagar" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Unmesh+Sagar"  alt="Unmesh Sagar" /></a>
 </p>
 
 <p align="center">
   <!-- Typing SVG -->
-  <a href="https://github.com/unmeshsagar"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Software+Developer;Currently+Working+on+Something+Cool;Learning+New+Things" alt="Typing SVG" /></a>
+  <a href="https://github.com/unmeshsagar"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Software+Developer;Currently+Working+on+Something+Cool;Learning+New+Things" alt="Typing SVG" /></a>
 </p>
 
 <!-- Social icons section -->
@@ -25,7 +25,7 @@
 
 <details open> 
   <summary><h2>🌠 What I'm up to</h2></summary>
-  <ul>
+  <ul align="center">
             <li> 👨🏻‍💻 Currently working on developing opensource projects ✍🏻</li>
             <li> 🎓 Currently learning tensorflow <img align="center"
                     src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1915px-Tensorflow_logo.svg.png"
@@ -33,7 +33,7 @@
             <li>📫 Reach me: <img align="center"
                     src="https://emojis.slackmojis.com/emojis/images/1450319444/38/gmail.png?1450319444" width="17" />
                 <a href="mailto:unmesh@cectl.ac.in" target="_blank">unmesh@cectl.ac.in</a></li>
-        </ul>
+  </ul>
  
 </details>
 
@@ -41,7 +41,7 @@
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
 
   <p align="left">
-    <a href="https://https://github.com/UnmeshSagar/cst362"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=unmeshsagar&repo=cst362&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Test"></a>
+    <a href="https://https://github.com/UnmeshSagar/unmesh"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=unmeshsagar&repo=unmesh&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Test"></a>
   </p>
 
   <a href="https://github.com/unmeshsagar?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
@@ -80,14 +80,14 @@
 
   <h3>🗄️ Databases and Cloud Hosting</h3>
 
-  <p>
+  <p align="center">
        <a href="https://github.com/unmeshsagar"><img alt="Icons" src="https://skillicons.dev/icons?i=mongodb,github,heroku,gcp,netlify&perline=8"></a>
       
   </p>
 
   <h3>💻 Software and Tools</h3>
 
-  <p>
+  <p align="center">
      <a href="https://github.com/unmeshsagar"><img alt="Icons" src="https://skillicons.dev/icons?i=linux,vscode,figma,git,qt,idea,latex,wordpress,powershell,atom,pr,discord,stackoverflow&perline=8"></a>
       
   </p>
@@ -98,7 +98,7 @@
 
   <h3>🔥 Streak Stats</h3>
 
-  <p>
+  <p align="center">
     <a href="https://github.com/unmeshsagar">
       <img title="🔥streak stats of Unmesh Sagar's profile" alt="Unmeshsagar's streak" src="https://streak-stats.demolab.com?user=unmeshsagar&theme=monokai-metallian&hide_border=true"/>
     </a>
@@ -106,14 +106,14 @@
 
   <h3>💻 GitHub Profile Stats</h3>
 
-  <a href="https://github.com/unmeshsagar"><img alt="Unmeshsagar's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=unmeshsagar&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/Unmeshsagar"><img alt="Unmeshsagar's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=unmeshsagar&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <a href="https://github.com/unmeshsagar" align="center"><img alt="Unmeshsagar's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=unmeshsagar&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/Unmeshsagar" align="center"><img alt="Unmeshsagar's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=unmeshsagar&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
   <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
-  <a href="https://github.com/unmeshsagar"><img alt="Unmeshsagar's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=unmeshsagar&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/unmeshsagar" align="center"><img alt="Unmeshsagar's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=unmeshsagar&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
   
 </details>

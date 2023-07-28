@@ -130,3 +130,6 @@
 
   <p><a href="#"><img src="#" alt="No Badges to Show"></a></p>
 </details>
+<br/>
+![Snake animation](https://github.com/unmeshsagar/unmeshsagar/blob/output/github-contribution-grid-snake.svg)
+<br/>

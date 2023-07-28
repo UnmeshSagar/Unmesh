@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/unmeshsagar">
-    <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=UNMESH+SAGAR"  alt="Unmesh Sagar" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=30&pause=1000&repeat=false&color=F75C7E&center=true&vCenter=true&width=435&lines=UNMESH+SAGAR"  alt="Unmesh Sagar" /></a>
 </p>
 
 <p align="center">

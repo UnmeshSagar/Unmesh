@@ -61,7 +61,7 @@
 </details>
 
 
-<details> 
+<details open> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
 
 
@@ -94,7 +94,7 @@
   </p>
 </details>
 
-<details> 
+<details open> 
   <summary><h2>📊 Github Stats and Activity</h2></summary>
 
   <h3>🔥 Streak Stats</h3>
@@ -106,9 +106,10 @@
   </p>
 
   <h3>💻 GitHub Profile Stats</h3>
-
-  <a href="https://github.com/unmeshsagar" align="center"><img alt="Unmeshsagar's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=unmeshsagar&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/Unmeshsagar" align="center"><img alt="Unmeshsagar's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=unmeshsagar&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <p align="center">
+  <a href="https://github.com/unmeshsagar" ><img alt="Unmeshsagar's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=unmeshsagar&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/Unmeshsagar" ><img alt="Unmeshsagar's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=unmeshsagar&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  </p>
   <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.

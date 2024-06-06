@@ -27,10 +27,6 @@
   <summary><h2>🌠 What I'm up to</h2></summary>
   <p align="center">
              👨🏻‍💻 Currently working on developing opensource projects ✍🏻
-             <br/>
-             🎓 Currently learning tensorflow <img align="center"
-                    src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1915px-Tensorflow_logo.svg.png"
-                    width="30" />
               <br/>
             📫 Reach me: <img align="center"
                     src="https://emojis.slackmojis.com/emojis/images/1450319444/38/gmail.png?1450319444" width="17" />
